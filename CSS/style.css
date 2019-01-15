@@ -1,0 +1,33 @@
+* {
+    color: red
+}
+h1 {
+    color: rosybrown
+}
+
+.blue{
+    color: rgb(136, 136, 175)
+}
+.blue{
+    color: blue
+}
+
+.pink{
+    color: pink
+}
+.bold{
+
+    font-weight: bold
+}
+
+h5 {
+    width: 50%; 
+}
+
+div{
+    width: 50%
+}
+
+h4{
+    color: #000000
+}
